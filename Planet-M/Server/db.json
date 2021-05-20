@@ -1,0 +1,215 @@
+{
+  "music": [
+    {
+      "id": 1,
+      "url": "../Assets/Audios/music1.mp3",
+      "name": "music1",
+      "language": "hindi",
+      "img": "https://img.icons8.com/color/96/000000/itunes.png",
+      "artist": "arrahman",
+      "category": "podcast"
+    },
+    {
+      "id": 2,
+      "url": "../Assets/Audios/music2.mp3",
+      "name": "music2",
+      "language": "marathi",
+      "img": "https://img.icons8.com/color/96/000000/itunes.png",
+      "artist": "sghoshal",
+      "category": "podcast"
+    },
+    {
+      "id": 3,
+      "url": "../Assets/Audios/music1.mp3",
+      "name": "music1",
+      "language": "hindi",
+      "img": "https://img.icons8.com/color/96/000000/itunes.png",
+      "artist": "arrahman",
+      "category": "classical"
+    },
+    {
+      "id": 4,
+      "url": "../Assets/Audios/music2.mp3",
+      "name": "music2",
+      "language": "marathi",
+      "img": "https://img.icons8.com/color/96/000000/itunes.png",
+      "artist": "sghoshal",
+      "category": "podcast"
+    },
+    {
+      "id": 5,
+      "url": "../Assets/Audios/music2.mp3",
+      "name": "music2",
+      "language": "marathi",
+      "img": "https://img.icons8.com/color/96/000000/itunes.png",
+      "artist": "sghoshal",
+      "category": "podcast"
+    },
+    {
+      "id": 6,
+      "url": "../Assets/Audios/music1.mp3",
+      "name": "music1",
+      "language": "english",
+      "img": "https://img.icons8.com/color/96/000000/itunes.png",
+      "artist": "sghoshal",
+      "category": "jazz"
+    },
+    {
+      "id": 7,
+      "url": "../Assets/Audios/music2.mp3",
+      "name": "music2",
+      "language": "english",
+      "img": "https://img.icons8.com/color/96/000000/itunes.png",
+      "artist": "jayz",
+      "category": "rock"
+    },
+    {
+      "id": 8,
+      "url": "../Assets/Audios/music2.mp3",
+      "name": "music2",
+      "language": "english",
+      "img": "https://img.icons8.com/color/96/000000/itunes.png",
+      "artist": "jayz",
+      "category": "jazz"
+    },
+    {
+      "id": 9,
+      "url": "../Assets/Audios/music1.mp3",
+      "name": "music1",
+      "language": "hindi",
+      "img": "https://img.icons8.com/color/96/000000/itunes.png",
+      "artist": "atifaslam",
+      "category": "bollywood"
+    },
+    {
+      "id": 10,
+      "url": "../Assets/Audios/music2.mp3",
+      "name": "music2",
+      "language": "marathi",
+      "img": "https://img.icons8.com/color/96/000000/itunes.png",
+      "artist": "sghoshal",
+      "category": "abhang"
+    }
+  ],
+  "users": [
+    {
+      "id": "manoja",
+      "password": "manoj",
+      "name": "manoj",
+      "email": "manojakhadmal97@gmail.com"
+    },
+    {
+      "id": "malhara",
+      "password": "mal",
+      "name": "malhar",
+      "email": "malhar01@gmail.com"
+    },
+    {
+      "id": "jayesha",
+      "password": "Jayesh$1234",
+      "name": "jayesh",
+      "email": "jay@gail.com"
+    },
+    {
+      "id": "mano12",
+      "password": "Manoj@123",
+      "name": "manoj",
+      "email": "manoj@gmail.com"
+    },
+    {
+      "id": "Manoj",
+      "password": "Monty@123",
+      "name": "",
+      "email": "manoj@gmail.com"
+    },
+    {
+      "id": "NarutoUz",
+      "password": "Naruto@123",
+      "name": "MalharD",
+      "email": "naruto@gmail.com"
+    }
+  ],
+  "artists": [
+    {
+      "Artistname": "A.R.Rahman",
+      "ProfilePicture": "../Assets/Images/A.R.Rahman.png",
+      "ArtistId": "arrahman"
+    },
+    {
+      "Artistname": "Shreya Ghoshal",
+      "ProfilePicture": "../Assets/Images/ShreyaGhoshal.png",
+      "ArtistId": "sghoshal"
+    },
+    {
+      "Artistname": "Arijit Singh",
+      "ProfilePicture": "../Assets/Images/ArijitSingh.png",
+      "ArtistId": "arijitsingh"
+    },
+    {
+      "Artistname": "Jay Z",
+      "ProfilePicture": "../Assets/Images/Jay-Z.png",
+      "ArtistId": "jayz"
+    },
+    {
+      "Artistname": "Atif Aslam",
+      "ProfilePicture": "../Assets/Images/AtifAslam.png",
+      "ArtistId": "atifaslam"
+    }
+  ],
+  "newReleases": [
+    {
+      "id": 1,
+      "url": "../Assets/Audios/music2.mp3",
+      "name": "music2",
+      "language": "English",
+      "img": "https://img.icons8.com/color/96/000000/itunes.png",
+      "artist": "jayz",
+      "category": "jazz"
+    },
+    {
+      "id": 2,
+      "url": "../Assets/Audios/music2.mp3",
+      "name": "music2",
+      "language": "English",
+      "img": "https://img.icons8.com/color/96/000000/itunes.png",
+      "artist": "jayz",
+      "category": "jazz"
+    },
+    {
+      "id": 3,
+      "url": "../Assets/Audios/music2.mp3",
+      "name": "music2",
+      "language": "English",
+      "img": "https://img.icons8.com/color/96/000000/itunes.png",
+      "artist": "jayz",
+      "category": "jazz"
+    },
+    {
+      "id": 4,
+      "url": "../Assets/Audios/music2.mp3",
+      "name": "music2",
+      "language": "English",
+      "img": "https://img.icons8.com/color/96/000000/itunes.png",
+      "artist": "jayz",
+      "category": "jazz"
+    },
+    {
+      "id": 5,
+      "url": "../Assets/Audios/music2.mp3",
+      "name": "music2",
+      "language": "English",
+      "img": "https://img.icons8.com/color/96/000000/itunes.png",
+      "artist": "jayz",
+      "category": "jazz"
+    },
+    {
+      "id": 6,
+      "url": "../Assets/Audios/music2.mp3",
+      "name": "music2",
+      "language": "English",
+      "img": "https://img.icons8.com/color/96/000000/itunes.png",
+      "artist": "jayz",
+      "category": "jazz"
+    }
+  ]
+}
